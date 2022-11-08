@@ -1,4 +1,4 @@
-# i am a title
+# I am a Title
 
 
-## i am a subtitle
+## I am a Subtitle
